@@ -13,11 +13,11 @@ My task was to perform exploratory data analysis (EDA), apply various regression
 
 ## Action
 
-Data Collection and Preprocessing: Collected student performance data and cleaned it by handling missing values and encoding categorical variables.
-Exploratory Data Analysis (EDA): Conducted EDA to understand data distribution, relationships, and key insights.
-Model Training and Evaluation: Applied multiple regression algorithms, including Linear Regression, CatBoost, Random Forest, Decision Tree, and SVM. Evaluated models using metrics like R-squared, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
-Containerization: Used Docker to containerize the application, ensuring consistency across different environments.
-Deployment: Set up a CI/CD pipeline on AWS for automated deployment, ensuring efficient and reliable updates to the application.
+- Data Collection and Preprocessing: Collected student performance data and cleaned it by handling missing values and encoding categorical variables.
+- Exploratory Data Analysis (EDA): Conducted EDA to understand data distribution, relationships, and key insights.
+- Model Training and Evaluation: Applied multiple regression algorithms, including Linear Regression, CatBoost, Random Forest, Decision Tree, and SVM. Evaluated models using metrics like R-squared, Mean Absolute Error (MAE), and Mean Squared Error (MSE).
+- Containerization: Used Docker to containerize the application, ensuring consistency across different environments.
+- Deployment: Set up a CI/CD pipeline on AWS for automated deployment, ensuring efficient and reliable updates to the application.
 
 ## Result
 
